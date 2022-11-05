@@ -1,0 +1,22 @@
+{
+  "name": "igm",
+  "version": "1.1.1",
+  "description": "For express Tests",
+  "main": "1",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "IGMiller777"
+  },
+  "keywords": [
+    "Grain"
+  ],
+  "author": "JITech Corporate",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
