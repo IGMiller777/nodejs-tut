@@ -1,0 +1,8 @@
+Index: node-app/.gitignore
+===================================================================
+diff --git a/node-app/.gitignore b/node-app/.gitignore
+--- a/node-app/.gitignore	
++++ b/node-app/.gitignore	
+@@ -1,0 +1,1 @@
++node_modules
+\ No newline at end of file
